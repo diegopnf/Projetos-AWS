@@ -31,27 +31,27 @@ Cenários de Empresas Reais 🏢: Para cada projeto, trarei exemplos de como emp
 
 ### Passo 1: Criando um NotebookLM
 Acesse o site do NotebookLM: https://notebooklm.google.com/ e clique em criar novo notebook.
-![alt text](./Imagens/1 - Processo.png)
+![alt text](./Imagens/1-Processo.png)
 
 ### Passo 2: Definindo nome do NotebookLM
 Clicando no canto superior esquerdo em "Untitled notebook" defina um nome para ele.
-![alt text](./Imagens/2 - Processo.png)
+![alt text](./Imagens/2-Processo.png)
 
 ### Passo 3: Acessando a tela de Gemini Personalizado (GEM)
 Acesse a página do Gemini: https://gemini.google.com/app e clique em "Gems".
-![alt text](./Imagens/3 - Processo.png)
+![alt text](./Imagens/3-Processo.png)
 
 Desça a página até gerenciador de gem e clique em "+ Novo Gem".
-![alt text](./Imagens/4 - Processo.png)
+![alt text](./Imagens/4-Processo.png)
 
 ### Passo 4: Criando o Gemini Personalizado (GEM)
-![alt text](./Imagens/5 - Processo.png)
+![alt text](./Imagens/5-Processo.png)
 Defina o nome, instruções para ele, como por exemplo: "Você é um profissional que utiliza a Cloud AWS, possui todas as certificações disponíveis, domina todos os pilares do framework, explica de forma técnica e detalhada, mas ao mesmo tempo, direcionando o ensinamento para uma pessoa que está entrando recente na área de Cloud. Os seus ensimanetos podem ser didáticos, mas não deve perder a essência técnica. Você deve responder as perguntas mostrando qual linha de raciocínio você usou (em etapas), qual pilar está direcionado a resolução do problema ou dúvida  e dicas em geral."
 
 Em "ferramenta padrão" você poderá usar a opção de ensino guiado e por último, em "conhecimento" escolha a sua fonte de dados "NotebookLM" e insira o link do github do nosso projeto (importar código"): https://github.com/diegopnf/Projetos-AWS.
 Dessa forma, o Gemini irá consultar o nosso notebooklm e irá conhecer o nosso projeto do GitHub para tirar dúvidas mais direcionadas.
 
-![alt text](./Imagens/6 - Processo.png)
+![alt text](./Imagens/6-Processo.png)
 
 Por último, acessando novamente o NotebookLM: https://notebooklm.google.com/, você poderá gerar aúdios, videos, apresentações, perguntas, gerar textos, a partir desses arquivos do projeto do github ou outros arquivos que você subir no seu notebookLM.
 
